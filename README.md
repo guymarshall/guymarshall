@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guymarshall
 - 👀 I’m interested in programming languages close to the hardware for optimal efficiency and performance
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any C++ files to help me learn
+- 🌱 I’m currently learning C++ and Java
+- 💞️ I’m looking to collaborate on any C++ and Java files to help me learn
 - 📫 How to reach me ...
 
 <!---
