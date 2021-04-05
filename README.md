@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guymarshall
-- 👀 I’m interested in programming languages close to the hardware for optimal efficiency and performance
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any Java projects to help me learn
-- 📫 How to reach me ...
+- 👀 I’m interested in programming languages to take advantage of all of the processing capabilities of our laptops, desktops and mobile devices
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on any Python or Java projects to help me learn the languages more quickly
+- 📫 How to reach me ... guymarshall.c@gmail.com
 
 <!---
 guymarshall/guymarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
