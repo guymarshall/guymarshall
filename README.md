@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guymarshall
 - 👀 I’m interested in programming languages to take advantage of the processing capabilities of our laptops, desktops and mobile devices
-- 🌱 I’m currently learning Java, Python, PHP, JavaScript and C#
-- 💞️ I’m looking to collaborate on any Java, Python, PHP, JavaScript and C# projects to help me learn the language more quickly
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any Python projects to help me learn the language more quickly
 - 📫 How to reach me ... guymarshall.c@gmail.com
 
 <!---
