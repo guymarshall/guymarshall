@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guymarshall!
 - 👀 I’m interested in programming languages to take advantage of the processing capabilities of our laptops, desktops and mobile devices, to help solve issues in the real world.
-- 🌱 I have programming experience in Java, PHP, Python, and C#, as well as coding experience in HTML and CSS.
+- 🌱 I have programming experience in Java, PHP, Python, Rust, and C#, as well as coding experience in HTML and CSS.
 - 💞️ I’m looking to collaborate on any projects to help me increase my confidence and knowledge in programming.
 - 📫 How to reach me ... guymarshall.c@gmail.com
 
